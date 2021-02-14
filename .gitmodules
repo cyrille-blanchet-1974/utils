@@ -1,0 +1,24 @@
+[submodule "ini_to_properties"]
+	path = ini_to_properties
+	url = git@github.com:cyrille-blanchet-1974/ini_to_properties.git
+[submodule "grep"]
+	path = grep
+	url = git@github.com:cyrille-blanchet-1974/grep.git
+[submodule "wait"]
+	path = wait
+	url = git@github.com:cyrille-blanchet-1974/wait.git
+[submodule "wc"]
+	path = wc
+	url = git@github.com:cyrille-blanchet-1974/wc.git
+[submodule "Addini"]
+	path = Addini
+	url = git@github.com:cyrille-blanchet-1974/Addini.git
+[submodule "SearchAndInsert"]
+	path = SearchAndInsert
+	url = git@github.com:cyrille-blanchet-1974/SearchAndInsert.git
+[submodule "AppendIni"]
+	path = AppendIni
+	url = git@github.com:cyrille-blanchet-1974/AppendIni.git
+[submodule "SearchAndReplace"]
+	path = SearchAndReplace
+	url = git@github.com:cyrille-blanchet-1974/SearchAndReplace.git
