@@ -22,3 +22,6 @@
 [submodule "SearchAndReplace"]
 	path = SearchAndReplace
 	url = git@github.com:cyrille-blanchet-1974/SearchAndReplace.git
+[submodule "rust_synch"]
+	path = rust_synch
+	url = https://github.com/cyrille-blanchet-1974/rust_synch.git
