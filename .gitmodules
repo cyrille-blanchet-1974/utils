@@ -34,3 +34,6 @@
 	path = rust_synch
 	url = git@github.com:cyrille-blanchet-1974/rust_synch.git
 	branch = main
+[submodule "addproperties"]
+	path = addproperties
+	url = git@github.com:cyrille-blanchet-1974/addproperties.git
