@@ -37,3 +37,6 @@
 [submodule "addproperties"]
 	path = addproperties
 	url = git@github.com:cyrille-blanchet-1974/addproperties.git
+[submodule "cut"]
+	path = cut
+	url = git@github.com:cyrille-blanchet-1974/cut.git
