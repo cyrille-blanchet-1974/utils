@@ -41,3 +41,9 @@
 	path = cut
 	url = git@github.com:cyrille-blanchet-1974/cut.git
 	branch = main
+[submodule "uniq"]
+	path = uniq
+	url = git@github.com:cyrille-blanchet-1974/uniq.git
+[submodule "sort"]
+	path = sort
+	url = git@github.com:cyrille-blanchet-1974/sort.git
