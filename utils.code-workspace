@@ -2,6 +2,45 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "uniq"
+		},
+		{
+			"path": "AddIni"
+		},
+		{
+			"path": "addproperties"
+		},
+		{
+			"path": "cut"
+		},
+		{
+			"path": "sort"
+		},
+		{
+			"path": "AppendIni"
+		},
+		{
+			"path": "grep"
+		},
+		{
+			"path": "ini_to_properties"
+		},
+		{
+			"path": "rust_synch"
+		},
+		{
+			"path": "SearchAndInsert"
+		},
+		{
+			"path": "SearchAndReplace"
+		},
+		{
+			"path": "wait"
+		},
+		{
+			"path": "wc"
 		}
 	]
 }
